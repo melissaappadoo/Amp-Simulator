@@ -4980,7 +4980,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 884.0, 86.5, 40.0, 20.0 ],
 					"text" : "Level",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -5020,7 +5020,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 936.0, 86.5, 49.0, 20.0 ],
 					"text" : "Bypass",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -5063,7 +5063,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 700.0, 86.5, 40.0, 20.0 ],
 					"text" : "O/D 1",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -5103,7 +5103,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 745.0, 86.5, 59.0, 20.0 ],
 					"text" : "Lowpass",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -5156,7 +5156,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 812.0, 86.5, 40.0, 20.0 ],
 					"text" : "O/D 2",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -6173,7 +6173,7 @@
 
 							}
  ],
-						"originid" : "pat-58"
+						"originid" : "pat-56"
 					}
 ,
 					"patching_rect" : [ 884.5, 212.25, 392.0, 22.0 ],
@@ -6257,7 +6257,7 @@
 
 							}
  ],
-						"originid" : "pat-64"
+						"originid" : "pat-62"
 					}
 ,
 					"patching_rect" : [ 1942.0, 90.0, 36.0, 22.0 ],
@@ -6811,7 +6811,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-23",
-					"items" : [ "None", ",", "ad_asio", "Ableton Move", ",", "ad_asio", "Ableton Push", ",", "ad_asio", "Focusrite Thunderbolt ASIO", ",", "ad_asio", "Focusrite USB ASIO", ",", "ad_directsound", "<none>", ",", "ad_mme", "<none>", ",", "NonRealTime", ",", "ad_portaudio", "MME", ",", "ad_portaudio", "Windows DirectSound", ",", "ad_portaudio", "Windows WASAPI", ",", "ad_portaudio", "Windows WDM-KS" ],
+					"items" : [ "None", ",", "ad_asio", "Ableton Move", ",", "ad_asio", "Ableton Push", ",", "ad_asio", "ASIO4ALL v2", ",", "ad_asio", "Focusrite Thunderbolt ASIO", ",", "ad_asio", "Focusrite USB ASIO", ",", "ad_asio", "JackRouter", ",", "ad_directsound", "<none>", ",", "ad_mme", "<none>", ",", "NonRealTime", ",", "ad_portaudio", "MME", ",", "ad_portaudio", "Windows DirectSound", ",", "ad_portaudio", "Windows WASAPI", ",", "ad_portaudio", "Windows WDM-KS" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -7225,7 +7225,7 @@
 
 							}
  ],
-						"originid" : "pat-66"
+						"originid" : "pat-64"
 					}
 ,
 					"patching_rect" : [ 39.5, 211.0, 91.0, 22.0 ],
